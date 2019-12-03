@@ -1,0 +1,35 @@
+<?xml-stylesheet type="text/css" href="p5.css"?>
+<!DOCTYPE HTML>
+<html>
+ <head>
+ <h1>STUDENTS DESCRIPTION</h1>
+ </head>
+ <students>
+  <student>
+   <USN>USN:1JS16IS068</USN>
+   <name>NAME:Setu Suyagya </name>
+   <college>COLLEGE:JSSATE</college>
+   <branch>BRANCH:ISE</branch>
+   <year>YEAR:4</year>
+   <e-mail>MAILID:abc@gmail.com</e-mail>
+  </student>
+  <student>
+   <USN>USN:1JS16IS067</USN>
+   <name>NAME:Satyam</name>
+   <college>COLLEGE:JSSATE</college>
+   <branch>BRANCH:ISE</branch>
+   <year>YEAR:4</year>
+   <e-mail>MAILID:def@gmail.com</e-mail>
+  </student>'
+  <student>
+   <USN>USN:1JS16IS076</USN>
+   <name>NAME:Shubham </name>
+   <college>COLLEGE:JSSATE</college>
+   <branch>BRANCH:ISE</branch>
+   <year>YEAR:4</year>
+   <e-mail>MAILID:ghi@gmail.com</e-mail>
+  </student>
+ </students>
+</html>
+   
+
